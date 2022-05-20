@@ -41,7 +41,9 @@ First navigate to the directory of the virtual environment (the folder you creat
 
 
 5- run main_window.py in the terminal/command prompt.
+
 	Ex:
+	
 		>py main_window.py
 		
 		>python3 main_window.py
