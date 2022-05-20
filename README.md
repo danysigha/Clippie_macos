@@ -32,8 +32,11 @@ First navigate to the directory of the virtual environment (the folder you creat
 4-Install the following  dependencies in the folder you created  using pip in the terminal/command prompt:
 
 >pip install Pyqt5
+
 >pip install pillow 
+
 >pip install validators
+
 >pip install bcrypt
 
 
