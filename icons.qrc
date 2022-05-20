@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Icons/cards.png</file>
+    <file>Icons/icons8-heart-96.png</file>
+    <file>Icons/icons8-link-100.png</file>
+    <file>Icons/icons8-navigation-toolbar-left-96.png</file>
+    <file>Icons/icons8-picture-96.png</file>
+    <file>Icons/icons8-type-90.png</file>
+    <file>Icons/icons8-settings-90.png</file>
+    <file>Icons/icons8-search-96.png</file>
+  </qresource>
+</RCC>
