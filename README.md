@@ -6,7 +6,7 @@ Steps for installation:
 
 1- Download the files and place them in a folder 
 	Repo link For windows: https://github.com/nko2005/Clippie_win10
-	Repo link For Mac: 
+	Repo link For Mac: https://github.com/danysigha/Clippie_macos.git
 
 2-Access the folder in the command prompt/terminal and create a virtual environment.
 
