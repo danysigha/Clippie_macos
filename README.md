@@ -5,8 +5,11 @@ This project is a software application called Clippie with a graphical user inte
 Steps for installation:
 
 1- Download the files and place them in a folder 
+
 	Repo link For windows: https://github.com/nko2005/Clippie_win10
+	
 	Repo link For Mac: https://github.com/danysigha/Clippie_macos
+	
 
 2-Access the folder in the command prompt/terminal and create a virtual environment.
 
@@ -18,26 +21,29 @@ Steps for installation:
 3- Activate the virtual environment in the terminal/command prompt (if it is not activated):
 
 First navigate to the directory of the virtual environment (the folder you created) then use the commands
+
 	For windows:
+	
 		>virt\Scripts\activate
 		Or
-		> source virt/Scripts/activate 
+		> source virt/Scripts/activate
+		
 	For Mac:
 		
-		Source bin/activate
+		> Source bin/activate
 
 *Please note that you must activate the virtual environment every time you wish to run the application, as well as during the installation of dependencies.
 	
 
 4-Install the following  dependencies in the folder you created  using pip in the terminal/command prompt:
 
->pip install Pyqt5
+> pip install Pyqt5
 
->pip install pillow 
+> pip install pillow 
 
->pip install validators
+> pip install validators
 
->pip install bcrypt
+> pip install bcrypt
 
 
 5- run main_window.py in the terminal/command prompt.
