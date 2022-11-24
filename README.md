@@ -45,6 +45,8 @@ First navigate to the directory of the virtual environment (the folder you creat
 
 > pip install bcrypt
 
+> pip install pyobjc
+
 
 5- run main_window.py in the terminal/command prompt.
 
