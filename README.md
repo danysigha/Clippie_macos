@@ -4,6 +4,9 @@ This project is a software application called Clippie with a graphical user inte
 ## Demo
 Please take a look at the [Demo](https://www.youtube.com/watch?v=Sw2OPs7z708): 
 
+
+## Installation
+
 Steps for installation:
 
 1- Download the files and place them in a folder 
