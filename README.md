@@ -2,7 +2,7 @@
 This project is a software application called Clippie with a graphical user interface component developed using python's PyQt5. It is a clipboard manager for laptops and desktops. The project will consist of two main components: the visual interface and the sqlite3 database. The software application's main functions include the ability to copy, paste, delete, search, set "shelf-life", group cards, and set a password. The general purpose of the project is to:   • Improve the workflow of users  • Keep record of potentially important and sensitive information of users  • Provide a hassle-free way to swiftly store information
 
 ## Demo
-Please take a look at the [Demo](https://www.youtube.com/watch?v=Sw2OPs7z708) 
+Please take a look at the [Youtude Demo](https://www.youtube.com/watch?v=Sw2OPs7z708) or the [哔哩哔哩(゜-゜)~-bilibili Demo](https://www.bilibili.com/video/BV1Aj411y7v5/?pop_share=1&vd_source=216a25346cda652ed687f6c2b8028063)
 
 
 ## Installation
